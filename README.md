@@ -1,15 +1,15 @@
 WebSocketChat
 =============
 
-websocket‚ðŽg‚Á‚½ƒ`ƒƒƒbƒgƒc[ƒ‹
+websocketã‚’ä½¿ã£ãŸãƒãƒ£ãƒƒãƒˆãƒ„ãƒ¼ãƒ«
 
-Žg‚¢•û
+ä½¿ã„æ–¹
 -------
 
-1.ƒT[ƒo[‚ð‹N“®‚µ‚Ü‚·B
+1.ã‚µãƒ¼ãƒãƒ¼ã‚’èµ·å‹•ã—ã¾ã™ã€‚
     ruby WebSocketChat.rb
-2.html‚ðƒuƒ‰ƒEƒU‚ÅŠJ‚«‚Ü‚·
-3.uconnected..v‚Æ•\Ž¦‚³‚ê‚é‚Ì‚ð‘Ò‚¿‚Ü‚·
-4.ƒƒOƒCƒ“–¼‚ð“ü—Í‚µ‚ÄuƒƒOƒCƒ“vƒ{ƒ^ƒ“‚ð‰Ÿ‚µ‚Ä‚­‚¾‚³‚¢B
-5.‘—MƒƒbƒZ[ƒW—“‚ÉƒƒbƒZ[ƒW‚ð“ü—Í‚µ‚Äu‘—Mvƒ{ƒ^ƒ“‚ð‰Ÿ‚µ‚Ä‚­‚¾‚³‚¢B
-6.Ú‘±‚µ‚Ä‚¢‚é‘Sƒ†[ƒU[‚ÉƒƒbƒZ[ƒW‚ª‘—M‚³‚ê‚Ü‚·B
+2.htmlã‚’ãƒ–ãƒ©ã‚¦ã‚¶ã§é–‹ãã¾ã™
+3.ã€Œconnected..ã€ã¨è¡¨ç¤ºã•ã‚Œã‚‹ã®ã‚’å¾…ã¡ã¾ã™
+4.ãƒ­ã‚°ã‚¤ãƒ³åã‚’å…¥åŠ›ã—ã¦ã€Œãƒ­ã‚°ã‚¤ãƒ³ã€ãƒœã‚¿ãƒ³ã‚’æŠ¼ã—ã¦ãã ã•ã„ã€‚
+5.é€ä¿¡ãƒ¡ãƒƒã‚»ãƒ¼ã‚¸æ¬„ã«ãƒ¡ãƒƒã‚»ãƒ¼ã‚¸ã‚’å…¥åŠ›ã—ã¦ã€Œé€ä¿¡ã€ãƒœã‚¿ãƒ³ã‚’æŠ¼ã—ã¦ãã ã•ã„ã€‚
+6.æŽ¥ç¶šã—ã¦ã„ã‚‹å…¨ãƒ¦ãƒ¼ã‚¶ãƒ¼ã«ãƒ¡ãƒƒã‚»ãƒ¼ã‚¸ãŒé€ä¿¡ã•ã‚Œã¾ã™ã€‚
