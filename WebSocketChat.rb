@@ -13,7 +13,7 @@ module ChatModule
   @@connected_clients = Hash.new
 
   # 受信したメッセージがログイン要求かどうか
-  def isLoginMessage?(msg)
+  def loginMessage?(msg)
     msgArray = msg.strip.split(":")
     1 < msgArray.size && msgArray[0].include?(CMD_LOGIN)
   end
@@ -61,7 +61,7 @@ EM::WebSocket.start(:host => "0.0.0.0", :port => 8080) { |ws|
   ws.onmessage { |msg|
     return if msg.strip.size < 1
 
-    if ws.isLoginMessage?(msg)
+    if ws.loginMessage?(msg)
       ws.login(msg)
     else
       ws.sendBroadcast(msg)
